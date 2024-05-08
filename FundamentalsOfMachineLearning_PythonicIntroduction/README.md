@@ -1,5 +1,7 @@
-# Machine Learning: is the field of study that gives computers the ability to learn without being explicityly programmed.
-# Machine Learning: also known as learning from data, involves training algorithm to recognize patterns and making data-based decisions.
+# Machine Learning: 
+is the field of study that gives computers the ability to learn without being explicityly programmed.
+# Machine Learning: 
+also known as learning from data, involves training algorithm to recognize patterns and making data-based decisions.
 
 ## Types of machine learning:
 * Supervised Learning
