@@ -15,3 +15,12 @@ The input features refer to the quntifiable attributes that describe the data, s
 #### Types of supervised learning:
 * Regression: is the type of supervised learning where the goal is to predict a continuous output variable. 
 * Classification: is a type of supervised learning that aims to predict a categorical label for each input. 
+
+### Unsupervised Learning:
+deals with grouping the data based on some similarity/dissimilarity. This technique distinguishes possible clusters in the data on some similarity matrices. As labels aren't required for this method, it requires minimal human intervention. 
+
+### Reinforcement learning:
+An agent learns to take in an environment to maximize a reward signal. It isn't fully supervised, as labels for individual decisions aren't available in the data. It isn't fully unsupervised either, as the delayed labels are avaiable.
+
+
+
